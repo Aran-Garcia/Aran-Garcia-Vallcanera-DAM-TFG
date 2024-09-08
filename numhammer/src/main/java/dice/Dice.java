@@ -1,3 +1,4 @@
+// ARÁN GARCÍA VALLCANERA
 package dice;
 
 import java.util.Random;
