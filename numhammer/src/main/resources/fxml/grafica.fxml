@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.chart.BarChart?>
@@ -29,7 +29,7 @@
                      <children>
                         <BarChart fx:id="barChart" styleClass="chart" title="Average Damage" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="0.0">
                           <xAxis>
-                            <CategoryAxis>
+                            <CategoryAxis side="BOTTOM">
                                  <tickLabelFont>
                                     <Font size="14.0" />
                                  </tickLabelFont></CategoryAxis>
